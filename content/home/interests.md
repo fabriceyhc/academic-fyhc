@@ -37,7 +37,7 @@ subtitle = ""
 ## Subjects ##
    
 [[feature]]
-  icon = "area-chart"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Statistics"
   # description = "100%"  
