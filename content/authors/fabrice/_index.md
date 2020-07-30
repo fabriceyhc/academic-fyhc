@@ -22,6 +22,7 @@ bio: UCLA CS PhD | SE + ML
 
 interests:
 - Software Engineering
+- Probabilistic Programming
 - Machine Learning
 - Computer Vision
 - Natural Language Processing
@@ -46,15 +47,15 @@ social:
 - icon: "envelope"
   icon_pack: "fas"
   link: "mailto:fabricehc@cs.ucla.edu" # '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
 - icon: "google-scholar"
   icon_pack: "ai"
   link: "https://scholar.google.com/citations?user=AY9hnu8AAAAJ"
 - icon: "github"
   icon_pack: "fab"
   link: "https://github.com/fabriceyhc"
+- icon: "linkedin"
+  icon_pack: "fab"
+  link: "https://linkedin.com/in/fabrice-harel-canada-89b5a212"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -79,4 +80,4 @@ and the [Statistical Machine Learning Lab](https://www.uclaml.org/).
 
 My research aims at understanding the intricacies of training and testing ML systems. 
 At the moment, I am working on unifying and expanding data augmentation and metamorphic 
-testing techniques into a broader framework of invariant, sibylvariant&trade;, and mixed transformations. 
+testing techniques into a broader framework of invariant, sibylvariant&trade;, and mixture transformations. 
