@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: UCLA CS PhD | SE + ML
 
-interests:
-- Software Engineering
-- Probabilistic Programming
-- Machine Learning
-- Computer Vision
-- Natural Language Processing
+# interests:
+# - Software Engineering
+# - Probabilistic Programming
+# - Machine Learning
+# - Computer Vision
+# - Natural Language Processing
 
 education:
   courses:
