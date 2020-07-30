@@ -31,10 +31,10 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of California, Los Angeles
-    year: 2012
+    year: 2023
   - course: MS in Computer Science
     institution: University of California, Los Angeles
-    year: 2009
+    year: 2019
   - course: BS in Information Systems & Management
     institution: University of Florida
     year: 2012
@@ -72,6 +72,6 @@ email: ""
 # - Visitors
 # ---
 
-I am a second year computer science PhD student at [UCLA](https://www.cs.ucla.edu/) where I am advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and am a member of both the [Software Evolution and Analysis Lab](http://web.cs.ucla.edu/~miryung/research.html) and the [Statistical Machine Learning Lab](https://www.uclaml.org/).
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-My research aims at understanding the intricacies of training and testing ML systems. At the moment, I am working on unifying and expanding data augmentation and metamorphic testing techniques into a broader framework of invariant, sibylvariant &trade;, and mixed transformations. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
