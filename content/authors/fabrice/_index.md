@@ -22,10 +22,9 @@ bio: UCLA CS PhD | SE + ML
 
 interests:
 - Software Engineering
--- Testing
 - Machine Learning
--- Computer Vision
--- Natural Language Processing
+- Computer Vision
+- Natural Language Processing
 
 education:
   courses:
