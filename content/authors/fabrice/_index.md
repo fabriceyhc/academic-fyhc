@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cs.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: UCLA CS PhD | SE + ML
 
 interests:
 - Software Engineering
@@ -72,11 +72,6 @@ email: ""
 # - Visitors
 # ---
 
-I am a second year computer science PhD student at [UCLA](https://www.cs.ucla.edu/) 
-where I am advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and am a member 
-of both the [Software Evolution and Analysis Lab](http://web.cs.ucla.edu/~miryung/research.html) 
-and the [Statistical Machine Learning Lab](https://www.uclaml.org/).
+I am a second year computer science PhD student at [UCLA](https://www.cs.ucla.edu/) where I am advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and am a member of both the [Software Evolution and Analysis Lab](http://web.cs.ucla.edu/~miryung/research.html) and the [Statistical Machine Learning Lab](https://www.uclaml.org/).
 
-My research aims at understanding the intricacies of training and testing ML systems. 
-At the moment, I am working on unifying and expanding data augmentation and metamorphic 
-testing techniques into a broader framework of invariant, sibylvariant &trade;, and mixed transformations. 
+My research aims at understanding the intricacies of training and testing ML systems. At the moment, I am working on unifying and expanding data augmentation and metamorphic testing techniques into a broader framework of invariant, sibylvariant &trade;, and mixed transformations. 
