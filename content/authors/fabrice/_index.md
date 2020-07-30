@@ -10,20 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Science PhD
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of California, Los Angeles
+  url: "https://www.cs.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: UCLA CS PhD | SE + ML
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software Engineering
+-- Testing
+- Machine Learning
+-- Computer Vision
+-- Natural Language Processing
 
 education:
   courses:
