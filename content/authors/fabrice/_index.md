@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fabrice Harel-Canada
 
 # Username (this should match the folder name)
 authors:
-- admin
+- fabrice
 
 # Is this the primary user of the site?
 superuser: true
