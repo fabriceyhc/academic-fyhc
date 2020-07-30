@@ -16,11 +16,6 @@ subtitle = ""
 
 ## Academics ##
 
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "ML"
-  # description = "10%"
 
 [[feature]]
   icon = "python"
@@ -29,13 +24,25 @@ subtitle = ""
   # description = "10%"
 
 [[feature]]
-  icon = "database"
-  icon_pack = "fas"
+  icon = "microsoft"
+  icon_pack = "fab"
   name = "SQL"
   # description = "90%"
 
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = ".NET"
+  # description = "10%"
+
 ## Subjects ##
-   
+ 
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "AI"
+  # description = "100%"  
+
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
@@ -46,12 +53,6 @@ subtitle = ""
   icon = "square-root-alt"
   icon_pack = "fas"
   name = "Math"
-  # description = "100%"  
-
-[[feature]]
-  icon = "brain"
-  icon_pack = "fas"
-  name = "Philosophy"
   # description = "100%"  
 
 ## Politics ##
@@ -71,7 +72,7 @@ subtitle = ""
 [[feature]]
   icon = "equals"
   icon_pack = "fas"
-  name = "Equality"
+  name = "Philosophy"
   # description = "10%"
 
 ## Personal ##
