@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD | Computer Science
     institution: University of California, Los Angeles
     year: 2023
-  - course: MS in Computer Science
+  - course: MS | Computer Science
     institution: University of California, Los Angeles
     year: 2019
-  - course: BS in Information Systems & Management
+  - course: BS | Information Systems
     institution: University of Florida
     year: 2012
 
@@ -51,7 +51,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: "google-scholar"
   icon_pack: "ai"
-  link: "https://scholar.google.com/citations?user=AY9hnu8AAAAJ&hl=en&oi=ao"
+  link: "https://scholar.google.com/citations?user=AY9hnu8AAAAJ"
 - icon: "github"
   icon_pack: "fab"
   link: "https://github.com/fabriceyhc"
