@@ -67,10 +67,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-[]
-# - Researchers
-# - Visitors
-# ---
+- Researchers
+- Visitors
+---
 
 I am a second year computer science PhD student at [UCLA](https://www.cs.ucla.edu/) where I am advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and am a member of both the [Software Evolution and Analysis Lab](http://web.cs.ucla.edu/~miryung/research.html) and the [Statistical Machine Learning Lab](https://www.uclaml.org/).
 
