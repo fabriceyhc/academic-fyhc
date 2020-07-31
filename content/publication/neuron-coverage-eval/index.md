@@ -29,8 +29,8 @@ publishDate: 2020-07-30T20:09:19-07:00
 publication_types: ["1", "3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks?"
-publication_short: ""
+publication: "In Proc of ACM SIGSOFT International Symposium on the Foundations of Software Engineering (ESEC/FSE), Sacramento, California, USA, 2020."
+publication_short: "ESEC/FSE"
 
 abstract: "Recent effort to test deep learning systems has produced an intuitive and compelling test criterion called neuron coverage (NC), which resembles the notion of traditional code coverage. NC measures the proportion of neurons activated in a neural network and it is implicitly assumed that increasing NC improves the quality of a test suite. In an attempt to automatically generate a test suite that increases NC, we design a novel diversity promoting regularizer that can be plugged into existing adversarial attack algorithms. We then assess whether such attempts to increase NC could generate a test suite that (1) detects adversarial attacks successfully, (2) produces natural inputs, and (3) is unbiased to particular class predictions. Contrary to expectation, our extensive empirical evaluation finds that increasing NC actually makes it harder to generate an effective test suite: higher neuron coverage leads to fewer defects detected, less natural inputs, and more biased prediction preferences. Our results invoke skepticism that neuron coverage may not be a meaningful measure for testing deep neural networks and call for a new test generation technique that considers defect detection, naturalness, and output impartiality in tandem."
 
