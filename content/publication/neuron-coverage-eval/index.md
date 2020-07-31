@@ -49,7 +49,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "Is_Neuron_Coverage_a_Meaningful_Measure_for_Testing_Deep_Neural_Networks (preprint).pdf"
+url_pdf: "neuron-coverage-eval.pdf"
 url_code: "https://github.com/fabriceyhc/nc_diversity_attacks"
 # url_dataset:
 # url_poster:
