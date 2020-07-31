@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Predicting Stock Prices with Relational Data, Pyro, and GNNs"
-summary: "Probability plays a foundational role in the modern economy of debt, credit, and risk, and features prominently in our course. Buyers and sellers, as presented in the economy, could be viewed as nodes in a directed graph. We propose using a probabilistic programming language to model the price of a single stock, and using a graph neural network (GNN) to model an industry. Part 1 entails modeling a stock and/or index using ARIMA. Part 2 entails using GNNs to predict stock prices with both historical stock data and relational data. Lastly, we learn a new correlational embedding to describe company relations solely from stock price movements. Our results indicate that relational data is important for achieving gains that surpass the passive performance of holding an index of stocks and that this relational data can be learned to a large extent only from stock price movements. We present all project code and the data we worked with at: https://github.com/fabriceyhc/ppl_gnn_stocks."
+title: "Predicting Stock Prices with Pyro and GNNs"
+summary: "Learning company relations from stock price movements alone can acheive 75% of optimal!"
 authors: [
 	"Fabrice Harel-Canada",
 	"John Theurer",
@@ -20,8 +20,8 @@ external_link: "https://github.com/fabriceyhc/ppl_gnn_stocks"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Our approach is within 75% of optimal!"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
