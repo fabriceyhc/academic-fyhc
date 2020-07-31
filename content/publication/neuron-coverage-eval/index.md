@@ -2,12 +2,19 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks?"
+# authors: [
+# 	"[Fabrice Harel-Canada](/)", 
+# 	"[Lingxiao Wang](https://scholar.google.com/citations?user=VPyxd6kAAAAJ&hl)",
+# 	"[Muhammad Ali Gulzar](http://web.cs.ucla.edu/~gulzar/)",
+# 	"[Quanquan Gu](http://web.cs.ucla.edu/~qgu/)",
+# 	"[Miryung Kim](http://web.cs.ucla.edu/~miryung/)"
+# ]
 authors: [
-	"[Fabrice Harel-Canada](/)", 
-	"[Lingxiao Wang](https://scholar.google.com/citations?user=VPyxd6kAAAAJ&hl)",
-	"[Muhammad Ali Gulzar](http://web.cs.ucla.edu/~gulzar/)",
-	"[Quanquan Gu](http://web.cs.ucla.edu/~qgu/)",
-	"[Miryung Kim](http://web.cs.ucla.edu/~miryung/)"
+	"Fabrice Harel-Canada", 
+	"Lingxiao Wang",
+	"Muhammad Ali Gulzar",
+	"Quanquan Gu",
+	"Miryung Kim"
 ]
 date: 2020-07-30T20:09:19-07:00
 doi: ""
