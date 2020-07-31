@@ -2,10 +2,13 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+#   See here for more information on menu options:
+#     https://gohugo.io/variables/menus/
 
 [[main]]
   name = "Home"
   url = "#about"
+  pre = "<i class='fa fa-home'></i>"
   weight = 10
 
 # [[main]]
@@ -16,11 +19,13 @@
 [[main]]
   name = "Publications"
   url = "#publications"
+  pre = "<i class='fa fa-book'></i>"
   weight = 20
 
 [[main]]
   name = "Projects"
   url = "#projects"
+  pre = "<i class='fa fa-tools'></i>"
   weight = 30
 
 # [[main]]
@@ -33,5 +38,5 @@
 [[main]]
    name = "CV"
    url = "files/cv_2020.07.30.pdf"
+   pre = "<i class='fa fa-file-alt'></i>"
    weight = 40
-   post = "<span class='alert'>New!</span>"
