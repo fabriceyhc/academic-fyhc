@@ -24,8 +24,8 @@ abstract: "Recent effort to test deep learning systems has produced an intuitive
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["se4ml", "se", "ml", "testing", "neuron coverage"]
-categories: ["empirical study"]
+tags: ["se4ml", "se", "ml", "testing", "neuron coverage", "empirical study"]
+categories: ["ESEC/FSE"]
 featured: false
 
 # Custom links (optional).
