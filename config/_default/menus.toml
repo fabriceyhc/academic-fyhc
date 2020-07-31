@@ -3,6 +3,9 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+[blackfriday]
+ hrefTargetBlank = true
+
 [[main]]
   name = "Home"
   url = "#about"
@@ -34,4 +37,3 @@
    name = "CV"
    url = "files/cv_2020.07.30.pdf"
    weight = 40
-   hrefTargetBlank = true
