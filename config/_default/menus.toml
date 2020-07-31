@@ -11,11 +11,6 @@
   # pre = "<i class='fa fa-home'></i>"
   weight = 10
 
-# [[main]]
-#   name = "Posts"
-#   url = "#posts"
-#   weight = 20
-
 [[main]]
   name = "Publications"
   url = "#publications"
@@ -23,25 +18,30 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  # pre = "<i class='fa fa-tools'></i>"
+  name = "Experience"
+  url = "#experience"
   weight = 30
 
 [[main]]
-  name = "Interests"
-  url = "#interests"
+  name = "Projects"
+  url = "#projects"
+  # pre = "<i class='fa fa-tools'></i>"
   weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 50
+# [[main]]
+#   name = "Interests"
+#   url = "#interests"
+#   weight = 40
+
+# [[main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "files/cv_2020.07.30.pdf"
+   url = "files/cv_2020.07.31.pdf"
    # pre = "<i class='fa fa-file-alt'></i>"
-   weight = 60
+   weight = 50
