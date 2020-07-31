@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = ""
   description = """
-* Conducted LDA topic modeling and sentence clause-level sentiment analysis using BERT transformers on millions of Amazon and Glassdoor product / employer reviews.
+* Conducting LDA topic modeling and sentence clause-level sentiment analysis using BERT transformers on millions of Amazon and Glassdoor product / employer reviews.
 """
 
 [[experience]]
@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = ""
   description = """
-* Evaluated the reliability of testing metrics for deep learning
-* Developed extensions to adversarial attack algorithms
+* Evaluating the reliability of testing metrics for deep learning
+* Developing extensions to adversarial attack algorithms
 """
 
 [[experience]]
