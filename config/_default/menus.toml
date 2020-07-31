@@ -8,7 +8,7 @@
 [[main]]
   name = "Home"
   url = "#about"
-  pre = "<i class='fa fa-home'></i>"
+  # pre = "<i class='fa fa-home'></i>"
   weight = 10
 
 # [[main]]
@@ -19,13 +19,13 @@
 [[main]]
   name = "Publications"
   url = "#publications"
-  pre = "<i class='fa fa-book'></i>"
+  # pre = "<i class='fa fa-book'></i>"
   weight = 20
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  pre = "<i class='fa fa-tools'></i>"
+  # pre = "<i class='fa fa-tools'></i>"
   weight = 30
 
 # [[main]]
@@ -38,5 +38,5 @@
 [[main]]
    name = "CV"
    url = "files/cv_2020.07.30.pdf"
-   pre = "<i class='fa fa-file-alt'></i>"
+   # pre = "<i class='fa fa-file-alt'></i>"
    weight = 40
