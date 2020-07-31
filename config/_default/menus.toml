@@ -34,3 +34,4 @@
    name = "CV"
    url = "files/cv_2020.07.30.pdf"
    weight = 40
+   post = "<span class='alert'>New!</span>"
