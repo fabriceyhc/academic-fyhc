@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Assistant"
+  company = "UCLA"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """
+* Conducted LDA topic modeling and sentence clause-level sentiment analysis using BERT transformers on millions of Amazon and Glassdoor product / employer reviews.
+"""
+
+[[experience]]
   title = "Graduate Student Researcher"
   company = "UCLA"
   company_url = ""
@@ -25,9 +36,8 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = ""
   description = """
-Evaluated the reliability of testing metrics for deep learning
-
-Developed extensions to adversarial attack algorithms
+* Evaluated the reliability of testing metrics for deep learning
+* Developed extensions to adversarial attack algorithms
 """
 
 [[experience]]
@@ -38,7 +48,18 @@ Developed extensions to adversarial attack algorithms
   date_start = "2018-10-01"
   date_end = ""
   description = """
-Helping clients to plan and implement technology projects - specs, devops, and app / database development
+* Helping clients to plan and implement technology projects - specs, devops, and app / database development
+"""
+
+[[experience]]
+  title = "Reader, CS 143 : Database Systems"
+  company = "UCLA"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2019-01-01"
+  date_end = "2019-03-01"
+  description = """
+* Developed test cases for a Spark project in Scala, actively addressed student questions, and assisted students with project work
 """
 
 [[experience]]
@@ -49,21 +70,18 @@ Helping clients to plan and implement technology projects - specs, devops, and a
   date_start = "2015-07-01"
   date_end = "2018-09-01"
   description = """
-Designed and successfully launched a smarter insurance app by building, motivating, and guiding a team of 23
-
-Contributed 100s of check-ins, primarily consisting of C# Web APIs and database tables, triggers, sprocs, and T-SQL scripts
-
-Designed and implemented a 3-system legacy data migration
-
-Responsible for producing, coordinating and reviewing nearly every aspect of the SDLC:
-* code reviews and code optimization
-* requirements and spec generation
-* database design + SSIS + SSRS
-* technical documentation
-* UI design standards
-* product design
-* server setup / config
-* build and deployment scripts
+* Designed and successfully launched a smarter insurance app by building, motivating, and guiding a team of 23
+* Contributed 100s of check-ins, primarily consisting of C# Web APIs and database tables, triggers, sprocs, and T-SQL scripts
+* Designed and implemented a 3-system legacy data migration
+* Responsible for producing, coordinating and reviewing nearly every aspect of the SDLC:
+  - code reviews and code optimization
+  - requirements and spec generation
+  - database design + SSIS + SSRS
+  - technical documentation
+  - UI design standards
+  - product design
+  - server setup / config
+  - build and deployment scripts
 """
 
 [[experience]]
@@ -74,11 +92,9 @@ Responsible for producing, coordinating and reviewing nearly every aspect of the
   date_start = "2012-12-01"
   date_end = "2018-09-01"
   description = """
-Go-to data expert for executives to produce hundreds of reports and analyses for pivotal decision making at the executive level
-
-Developed numerous front-end / back-end application features that were successfully deployed into production to automate tedious and time-intensive workflows
-
-Performed continuous requirements gathering & demos with business stakeholders to support 60+ sprints of development for both applications and business intelligence teams, including the transition to a new policy and claim management system
+* Go-to data expert for executives to produce hundreds of reports and analyses for pivotal decision making at the executive level
+* Developed numerous front-end / back-end application features that were successfully deployed into production to automate tedious and time-intensive workflows
+* Performed continuous requirements gathering & demos with business stakeholders to support 60+ sprints of development for both applications and business intelligence teams, including the transition to a new policy and claim management system
 """
 
 +++
