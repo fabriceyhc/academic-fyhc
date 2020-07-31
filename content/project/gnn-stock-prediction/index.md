@@ -20,8 +20,8 @@ external_link: "https://github.com/fabriceyhc/ppl_gnn_stocks"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Our approach is within 75% of optimal!"
-  focal_point: "Right"
+  caption: "Performance comparison between our approach (`corr_trained`) and alternative relational data."
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
