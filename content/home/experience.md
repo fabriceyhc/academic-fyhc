@@ -74,6 +74,7 @@ date_format = "Jan 2006"
 * Contributed 100s of check-ins, primarily consisting of C# Web APIs and database tables, triggers, sprocs, and T-SQL scripts
 * Designed and implemented a 3-system legacy data migration
 * Responsible for producing, coordinating and reviewing nearly every aspect of the SDLC:
+
   - code reviews and code optimization
   - requirements and spec generation
   - database design + SSIS + SSRS
