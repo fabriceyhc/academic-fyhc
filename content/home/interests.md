@@ -21,7 +21,6 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  url = "https://www.python.org/"
   # description = "10%"
 
 [[feature]]
