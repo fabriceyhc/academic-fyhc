@@ -8,7 +8,6 @@ authors: [
 	"[Muhammad Ali Gulzar](http://web.cs.ucla.edu/~gulzar/)",
 	"[Quanquan Gu](http://web.cs.ucla.edu/~qgu/)",
 	"[Miryung Kim](http://web.cs.ucla.edu/~miryung/)"
-
 ]
 date: 2020-07-30T20:09:19-07:00
 doi: ""
@@ -45,12 +44,12 @@ featured: false
 
 url_pdf: "Is_Neuron_Coverage_a_Meaningful_Measure_for_Testing_Deep_Neural_Networks (preprint).pdf"
 url_code: "https://github.com/fabriceyhc/nc_diversity_attacks"
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+# url_dataset:
+# url_poster:
+# url_project:
+# url_slides:
+# url_source:
+# url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
