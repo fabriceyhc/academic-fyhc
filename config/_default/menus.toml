@@ -34,3 +34,4 @@
    name = "CV"
    url = "files/cv_2020.07.30.pdf"
    weight = 40
+   hrefTargetBlank = true
