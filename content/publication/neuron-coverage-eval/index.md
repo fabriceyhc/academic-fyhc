@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks?"
-authors: [*Fabrice Harel-Canada*, Lingxiao Wang, Muhammad Ali Gulzar, Quanquan Gu, Miryung Kim]
+authors: ["fabrice"]
 date: 2020-07-30T20:09:19-07:00
 doi: ""
 
