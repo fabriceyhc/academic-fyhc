@@ -21,7 +21,7 @@ external_link: "https://github.com/fabriceyhc/ppl_gnn_stocks"
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "Our approach is within 75% of optimal!"
-  focal_point: "Smart"
+  focal_point: "Right"
   preview_only: false
 
 # Custom links (optional).
