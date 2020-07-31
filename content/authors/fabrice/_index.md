@@ -76,6 +76,8 @@ where I am advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and am a m
 of both the [Software Evolution and Analysis Lab](http://web.cs.ucla.edu/~miryung/research.html) 
 and the [Statistical Machine Learning Lab](https://www.uclaml.org/).
 
-My research aims at understanding the intricacies of training and testing ML systems. 
+My research aims at understanding the intricacies of training and testing ML systems. Previously, this 
+entailed devising novel adversarial attack regularizations and investigating test metrics for deep 
+learning models with respect to defect detection, input naturalness, and output diversity.
 At the moment, I am working on unifying and expanding data augmentation and metamorphic 
-testing techniques into a broader framework of invariant, sibylvariant&trade;, and mixture transformations. 
+testing techniques into a broader framework of invariant, sibylvariant, and mixture transformations. 
