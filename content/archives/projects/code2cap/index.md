@@ -22,8 +22,8 @@ external_link: "https://github.com/fabriceyhc/code-summarization"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Example input-output behavior."
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
