@@ -37,7 +37,7 @@ image:
 #   icon: twitter
 
 links:
-- name: "code-summarization"
+- name: "code2cap"
   url: "https://github.com/fabriceyhc/code-summarization"
   # icon_pack: fab
   # icon: twitter
