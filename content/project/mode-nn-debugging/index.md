@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "MODE: Automated Neural Network Debugging Replication Project"
-summary: "Open source implementation based on the original paper by Shiqing Ma *et al.* with a comparison of newly considered distance functions."
+summary: "Open source implementation based on the original paper by Shiqing Ma *et al.* with a comparison of newly considered distance functions for selecting next training inputs."
 authors: ["Fabrice Harel-Canada"]
 tags: ["ml", "testing", "debugging", "keras", "tensorflow"]
 categories: ["testing"]
-date: 2020-08-01T00:51:52-07:00
+date: 2019-03-11T00:51:52-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/fabriceyhc/mode_nn_debugging"

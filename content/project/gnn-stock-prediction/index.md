@@ -11,7 +11,7 @@ authors: [
 ]
 tags: ["ml", "gnn", "probabilistic programming", "pytorch", "pyro"]
 categories: ["finance"]
-date: 2020-07-30T21:40:43-07:00
+date: 2020-06-20T21:40:43-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/fabriceyhc/ppl_gnn_stocks"
