@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Predicting Stock Prices with Pyro and GNNs"
-summary: "Learning company relations from stock price movements alone can be extremely profitable - i.e. 75% of optimal in our experiments with NYSE simulated for the years 2013-2017."
+summary: "Learning company relations from stock price movements alone can be extremely profitable."
 authors: [
 	"Fabrice Harel-Canada",
 	"John Theurer",
