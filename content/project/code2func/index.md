@@ -1,24 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ML on Source Code"
-summary: "Using BERT transformers on Python & Java code snippets to learn (a) plain English summaries and (b) syntactically valid function names."
+title: "Code2Func: Function Name Generation from Source Code"
+summary: "An neural approach to function name program synthesis."
 authors: [
-	"Fabrice Harel-Canada",
-	"Vishwa Karia",
-	"Arghya Mukherjee",
-	"Zeel Doshi",
-	"Vaishnavi Pendse",
-	"Victor Chang",
-	"Vikranth Jeyakumar",
+	"Fabrice Harel-Canada"
+  "Vikranth Jeyakumar",
 	"Cibi Pragadeesh"
 ]
-tags: []
-categories: []
+tags: ["ml", "BERT", "program synthesis", "NLP"]
+categories: ["program synthesis"]
 date: 2019-06-11T01:46:06-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/fabriceyhc/code2func"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,18 +31,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-links:
-- name: "code2cap"
-  url: "https://github.com/fabriceyhc/code-summarization"
-  # icon_pack: fab
-  # icon: twitter
-- name: "code2func"
-  url: "https://github.com/fabriceyhc/code2func"
-  # icon_pack: fab
-  # icon: twitter
-
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/fabriceyhc/code2func"
+url_pdf: "code2func.pdf"
 url_slides: ""
 url_video: ""
 
