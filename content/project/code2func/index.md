@@ -4,7 +4,7 @@
 title: "Code2Func: Function Name Generation from Source Code"
 summary: "An neural approach to automate naming functions so you don't have to."
 authors: [
-	"Fabrice Harel-Canada"
+	"Fabrice Harel-Canada",
   "Vikranth Jeyakumar",
 	"Cibi Pragadeesh"
 ]
