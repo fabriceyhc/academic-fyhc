@@ -41,8 +41,6 @@ links:
   url: "https://github.com/fabriceyhc/code-summarization"
   # icon_pack: fab
   # icon: twitter
-
-links:
 - name: "code2func"
   url: "https://github.com/fabriceyhc/code2func"
   # icon_pack: fab
