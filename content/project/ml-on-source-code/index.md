@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ML on Source Code"
-summary: "Learning to generate (a) plain English summaries and (b) syntactically valid function names for code snippets."
+summary: "Using BERT transformers on Python & Java code snippets to learn (a) plain English summaries and (b) syntactically valid function names."
 authors: [
 	"Fabrice Harel-Canada",
 	"Vishwa Karia",
