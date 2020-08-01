@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Code2Cap: Automated Code Captioning"
+title: "Code2Cap"
 summary: "Learning to generate plain English summaries from Python & Java code snippets using BERT transformers."
 authors: [
 	"Fabrice Harel-Canada",

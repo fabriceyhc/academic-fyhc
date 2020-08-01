@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Code2Func: Function Name Generation from Source Code"
+title: "Code2Func"
 summary: "An neural approach to automate naming functions so you that don't have to."
 authors: [
 	"Fabrice Harel-Canada",
