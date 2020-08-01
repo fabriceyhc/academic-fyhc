@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Code2Func: Function Name Generation from Source Code"
-summary: "An neural approach to function name program synthesis."
+summary: "An neural approach to automate naming functions so you don't have to."
 authors: [
 	"Fabrice Harel-Canada"
   "Vikranth Jeyakumar",
