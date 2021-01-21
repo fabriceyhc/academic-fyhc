@@ -23,20 +23,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Los Angeles, California"
   date_start = "2020-09-28"
-  date_end = ""
+  date_end = "2020-12-28"
   description = """
 * Developed teaching materials, activities, and exam questions that reinforced the lectures and gauged conceptual proficiency.
-"""
-
-[[experience]]
-  title = "Research Assistant"
-  company = "UCLA"
-  company_url = ""
-  location = "Los Angeles, California"
-  date_start = "2020-07-01"
-  date_end = ""
-  description = """
-* Conducting LDA topic modeling and sentence clause-level sentiment analysis using BERT transformers on millions of Amazon and Glassdoor product / employer reviews.
 """
 
 [[experience]]
@@ -49,6 +38,17 @@ date_format = "Jan 2006"
   description = """
 * Evaluating the reliability of testing metrics for deep learning
 * Developing extensions to adversarial attack algorithms
+"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "UCLA"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2020-07-01"
+  date_end = "2020-10-01"
+  description = """
+* Conducting LDA topic modeling and sentence clause-level sentiment analysis using BERT transformers on millions of Amazon and Glassdoor product / employer reviews.
 """
 
 [[experience]]
