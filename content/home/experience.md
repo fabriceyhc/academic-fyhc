@@ -18,14 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assistant | Software Engineering (CS 130)"
+  title = "Teaching Assistant | Software Engineering [CS 130]"
   company = "UCLA"
   company_url = ""
   location = "Los Angeles, California"
   date_start = "2020-09-28"
   date_end = ""
   description = """
-* Reinforcing lectures by reviewing materials with students in weekly sessions. 
+* Developed teaching materials, activities, and exam questions that reinforced the lectures and gauged conceptual proficiency.
 """
 
 [[experience]]
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Reader, CS 143 : Database Systems"
+  title = "Reader | Database Systems [CS 143]"
   company = "UCLA"
   company_url = ""
   location = "Los Angeles, California"
