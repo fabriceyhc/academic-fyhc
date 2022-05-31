@@ -71,13 +71,26 @@ email: ""
 
 ---
 
-I am a second year computer science PhD student at [UCLA](https://www.cs.ucla.edu/) 
-where I am advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and am a member 
-of both the [Software Evolution and Analysis Lab](http://web.cs.ucla.edu/~miryung/research.html) 
-and the [Statistical Machine Learning Lab](https://www.uclaml.org/).
+# I am a third year computer science PhD student at [UCLA](https://www.cs.ucla.edu/) 
+# where I am advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and am a member 
+# of both the [Software Evolution and Analysis Lab](http://web.cs.ucla.edu/~miryung/research.html) 
+# and the [Statistical Machine Learning Lab](https://www.uclaml.org/).
 
-My research aims at understanding the intricacies of training and testing ML systems. Previously, this 
-entailed devising novel adversarial attack regularizations and investigating test metrics for deep 
-learning models with respect to defect detection, input naturalness, and output diversity.
-At the moment, I am working on unifying and expanding data augmentation and metamorphic 
-testing techniques into a broader framework of invariant, sibylvariant, and mixture transformations. 
+# My research aims at understanding the intricacies of training and testing ML systems. Previously, this 
+# entailed devising novel adversarial attack regularizations and investigating test metrics for deep 
+# learning models with respect to defect detection, input naturalness, and output diversity.
+# At the moment, I am working on unifying and expanding data augmentation and metamorphic 
+# testing techniques into a broader framework of invariant, sibylvariant, and mixture transformations. 
+
+# UPDATE 2022.05.31
+
+I am a computer science PhD student at UCLA where I am part of the [Software Evolution and Analysis Lab](http://web.cs.ucla.edu/~miryung/research.html) 
+and advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/). I also work with [Violet Peng](https://vnpeng.net/) of the 
+[PLUS Lab](https://vnpeng.net/members/) and [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) in the [Statistical Machine Learning Lab](https://www.uclaml.org/). 
+
+My research aims at developing new techniques for training, testing, and evaluating ML systems. 
+Previously, this has entailed devising novel adversarial attacks, investigating test metrics like neuron coverage 
+for deep learning models, and proposing sibylvariant transformations to improve model generalization and robustness. 
+My current projects span two distinct areas: a) building fine-grained data lineage to support the creation 
+of automated data augmentation policies and data exploration; b) developing reference-free evaluation metrics 
+to measure the diversity and engagingness of natural language generation systems.
