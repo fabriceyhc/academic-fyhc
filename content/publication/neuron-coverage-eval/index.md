@@ -26,7 +26,7 @@ publishDate: 2020-07-30T20:09:19-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1", "3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In Proceedings of ACM SIGSOFT International Symposium on the Foundations of Software Engineering (ESEC/FSE), Sacramento, California, USA, 2020."

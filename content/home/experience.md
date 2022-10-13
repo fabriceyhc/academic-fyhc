@@ -36,6 +36,8 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = ""
   description = """
+* Developing automated evaluation metrics for natural language generation systems - e.g. diversity, engagement
+* Designed a new class of sibylvariant data transformations, releasing an open source tool for the community [Sibyl](https://github.com/fabriceyhc/Sibyl)
 * Evaluating the reliability of testing metrics for deep learning
 * Developing extensions to adversarial attack algorithms
 """
