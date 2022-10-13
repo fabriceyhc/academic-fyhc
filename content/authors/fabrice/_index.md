@@ -74,7 +74,7 @@ email: ""
 I am a computer science PhD student at [UCLA](https://www.cs.ucla.edu/) 
 where I am advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/). I also work with [Violet Peng](https://vnpeng.net/) in [Peng's Language Understanding and Synthesis (PLUS) Lab](https://vnpeng.net/members/) and [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) in the [Statistical Machine Learning Lab](https://www.uclaml.org/).
 
-My research aims at developing new techniques for training, testing, and evaluating ML systems. Previously, this has entailed devising novel adversarial attacks, investigating test metrics like neuron coverage for deep learning models, and creating \emph{sibylvariant transformations} to improve model generalization and robustness. My current projects span three distinct areas: 
+My research aims at developing new techniques for training, testing, and evaluating ML systems. Previously, this has entailed devising novel adversarial attacks, investigating test metrics like neuron coverage for deep learning models, and creating _sibylvariant transformations_ to improve model generalization and robustness. My current projects span three distinct areas: 
 - Developing fine-grained data lineage to support the creation of automated data augmentation policies and data exploration.
 - Producing reference-free evaluation metrics to quantify the diversity of natural language.
 - Statically analyzing android apps containing ML models to generate tests that expand post-inference coverage. 
