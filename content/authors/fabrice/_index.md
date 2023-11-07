@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD | Computer Science
     institution: University of California, Los Angeles
-    year: 2023
+    year: 2024
   - course: MS | Computer Science
     institution: University of California, Los Angeles
     year: 2019

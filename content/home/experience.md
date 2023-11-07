@@ -18,6 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Teaching Assistant | Intro to Computer Science [CS 31]"
+  company = "UCLA"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2023-09-28"
+  date_end = "2023-12-28"
+  description = """
+* Facilitated a robust understanding of C++ fundamentals for introductory computer science students, providing guidance on programming concepts, debugging techniques, and hands-on problem-solving support.
+"""
+
+[[experience]]
+  title = "Teaching Assistant | Software Engineering [CS 130]"
+  company = "UCLA"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2023-03-27"
+  date_end = "2020-06-14"
+  description = """
+* Collaborated with a team of Google instructors to facilitate cutting-edge learning experiences and contributing to the development of students' technical skills.
+"""
+
+[[experience]]
   title = "Teaching Assistant | Software Engineering [CS 130]"
   company = "UCLA"
   company_url = ""
@@ -25,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-28"
   date_end = "2020-12-28"
   description = """
-* Developed teaching materials, activities, and exam questions that reinforced the lectures and gauged conceptual proficiency.
+* Facilitated hands-on learning in software engineering by guiding 50+ undergraduates through coding exercises and debugging, enhancing their grasp of complex algorithms and object-oriented programming.
 """
 
 [[experience]]
