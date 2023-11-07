@@ -48,6 +48,7 @@ date_format = "Jan 2006"
   date_end = "2020-12-28"
   description = """
 * Facilitated hands-on learning in software engineering by guiding 50+ undergraduates through coding exercises and debugging, enhancing their grasp of complex algorithms and object-oriented programming.
+* Guided teams in designing and executing bespoke capstone projects, including a plant identification app, equipping them with practical experience in full-stack development and collaborative design.
 """
 
 [[experience]]
