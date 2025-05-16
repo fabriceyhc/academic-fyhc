@@ -84,7 +84,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Los Angeles, California"
   date_start = "2018-10-01"
-  date_end = "2023-04-012022-12-30"
+  date_end = "2023-04-01"
   description = """
 * Helping clients to plan and implement technology projects - specs, devops, and app / database development
 """
