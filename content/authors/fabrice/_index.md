@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD | Computer Science
     institution: University of California, Los Angeles
-    year: 2023
+    year: 2025
   - course: MS | Computer Science
     institution: University of California, Los Angeles
     year: 2019
@@ -58,7 +58,7 @@ social:
   link: "https://linkedin.com/in/fabrice-harel-canada-89b5a212"
 - icon: "cv"
   icon_pack: "ai"
-  link: "files/cv_2022.10.12.pdf"
+  link: "files/cv_2023.11.07.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,10 +71,15 @@ email: ""
 
 ---
 
-I am a computer science PhD student at [UCLA](https://www.cs.ucla.edu/) 
-where I am advised by [Miryung Kim](http://web.cs.ucla.edu/~miryung/). I also work with [Violet Peng](https://vnpeng.net/) in [Peng's Language Understanding and Synthesis (PLUS) Lab](https://vnpeng.net/members/) and [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) in the [Statistical Machine Learning Lab](https://www.uclaml.org/).
+I recently completed my PhD in Computer Science at [UCLA](https://www.cs.ucla.edu/) (May 2025). My doctoral research focused on pioneering holistic and robust evaluation frameworks for AI systems, aiming to enhance their reliability, utility, trustworthiness, and human-centric qualities.
 
-My research aims at developing new techniques for training, testing, and evaluating ML systems. Previously, this has entailed devising novel adversarial attacks, investigating test metrics like neuron coverage for deep learning models, and creating _sibylvariant transformations_ to improve model generalization and robustness. My current projects span three distinct areas: 
-- Developing fine-grained data lineage to support the creation of automated data augmentation policies and data exploration.
-- Producing reference-free evaluation metrics to quantify the diversity of natural language.
-- Statically analyzing android apps containing ML models to generate tests that expand post-inference coverage. 
+I was primarily advised by Prof. [Miryung Kim](http://web.cs.ucla.edu/~miryung/). Throughout my PhD, I had the privilege of collaborating closely with Prof. [Nanyun (Violet) Peng](https://vnpeng.net/) (PLUS Lab), Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Statistical Machine Learning Lab), and Prof. [Amit Sahai](https://web.cs.ucla.edu/~sahai/).
+
+My research spanned several key areas, contributing to:
+
+* **Advanced AI Testing & Robustness:** Critically analyzing existing AI testing metrics (like neuron coverage), exploring fuzzing techniques, investigating adversarial attack methodologies, and developing novel approaches for AI content watermarking to ensure provenance.
+* **Data-Centric AI Innovation:** Designing and implementing novel data augmentation strategies (e.g., sibylvariant transformations, feature-aware methods) to improve model generalization, along with frameworks for provenance tracking in synthetic data.
+* **Human-Centric Quality Assessment:** Leading award-winning research to define and measure nuanced, human-perceived qualities in language model outputs, such as engagement, psychological depth, and linguistic diversity, often validated through extensive human studies.
+* **Applied AI & Societal Considerations:** Developing specialized AI models for practical challenges (e.g., substance use detection in medical texts) and exploring methods for enhancing cultural inclusion and fairness in AI systems.
+
+Building on this foundation, I am now channeling my expertise into founding **[Kairno](https://kairno.com)**, a new venture dedicated to automating and elevating the research review process using advanced AI. Our goal is to make deep, actionable critique accessible to everyone engaged in scientific work. If you're passionate about this mission and would like to learn more or potentially collaborate, please feel free to reach out!

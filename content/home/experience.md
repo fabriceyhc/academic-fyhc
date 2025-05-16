@@ -18,6 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Graduate Student Researcher"
+  company = "UCLA"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2019-06-01"
+  date_end = "2025-06-15"
+  description = """
+* Pioneered novel methodologies for robust AI system evaluation, focusing on enhancing reliability and trustworthiness through data-centric and human-in-the-loop approaches.
+* Led award-winning research (EMNLP Outstanding Paper, Top 0.25%) in developing and validating new metrics for assessing nuanced, human-perceived qualities (e.g., psychological depth, engagement, linguistic diversity) in large language model outputs via extensive human studies.
+* Engineered innovative data augmentation techniques (incl. sibylvariant transformations, feature-aware methods) and open-source tools to improve AI model generalization, robustness against adversarial attacks, and textual diversity.
+* Investigated and developed solutions for AI content integrity, including advanced watermarking for provenance tracking and specialized models for tasks like high-accuracy drug detection in medical texts.
+* Researched critical aspects of AI fairness, including testing metric reliability (neuron coverage, fuzzing) and strategies for improving cultural inclusion in AI systems.
+"""
+
+
+[[experience]]
+  title = "Teaching Assistant | Intro to Computer Science [CS 31]"
+  company = "UCLA"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2023-09-28"
+  date_end = "2023-12-28"
+  description = """
+* Facilitated a robust understanding of C++ fundamentals for introductory computer science students, providing guidance on programming concepts, debugging techniques, and hands-on problem-solving support.
+"""
+
+[[experience]]
+  title = "Teaching Assistant | Software Engineering [CS 130]"
+  company = "UCLA"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2023-03-27"
+  date_end = "2023-06-14"
+  description = """
+* Collaborated with a team of Google instructors to facilitate cutting-edge learning experiences and contributing to the development of students' technical skills.
+"""
+
+[[experience]]
   title = "Teaching Assistant | Software Engineering [CS 130]"
   company = "UCLA"
   company_url = ""
@@ -25,21 +63,8 @@ date_format = "Jan 2006"
   date_start = "2020-09-28"
   date_end = "2020-12-28"
   description = """
-* Developed teaching materials, activities, and exam questions that reinforced the lectures and gauged conceptual proficiency.
-"""
-
-[[experience]]
-  title = "Graduate Student Researcher"
-  company = "UCLA"
-  company_url = ""
-  location = "Los Angeles, California"
-  date_start = "2019-06-01"
-  date_end = ""
-  description = """
-* Developing automated evaluation metrics for natural language generation systems - e.g. diversity, engagement
-* Designed a new class of sibylvariant data transformations, releasing an open source tool for the community [Sibyl](https://github.com/fabriceyhc/Sibyl)
-* Evaluating the reliability of testing metrics for deep learning
-* Developing extensions to adversarial attack algorithms
+* Facilitated hands-on learning in software engineering by guiding 50+ undergraduates through coding exercises and debugging, enhancing their grasp of complex algorithms and object-oriented programming.
+* Guided teams in designing and executing bespoke capstone projects, including a plant identification app, equipping them with practical experience in full-stack development and collaborative design.
 """
 
 [[experience]]
@@ -59,7 +84,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Los Angeles, California"
   date_start = "2018-10-01"
-  date_end = ""
+  date_end = "2023-04-012022-12-30"
   description = """
 * Helping clients to plan and implement technology projects - specs, devops, and app / database development
 """
