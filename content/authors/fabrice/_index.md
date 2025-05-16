@@ -71,15 +71,14 @@ email: ""
 
 ---
 
-I recently completed my PhD in Computer Science at [UCLA](https://www.cs.ucla.edu/) (May 2025). My doctoral research focused on pioneering holistic and robust evaluation frameworks for AI systems, aiming to enhance their reliability, utility, trustworthiness, and human-centric qualities.
+I completed my PhD in Computer Science at [UCLA](https://www.cs.ucla.edu/)! The main focus of my work was in tackling a big challenge in AI: how do we *really* know if an AI system is reliable, useful, and trustworthy? I explored new ways to evaluate them, looking closely at everything from data diversity, quality, and provenance to how people truly experience AI-generated work.
 
-I was primarily advised by Prof. [Miryung Kim](http://web.cs.ucla.edu/~miryung/). Throughout my PhD, I had the privilege of collaborating closely with Prof. [Nanyun (Violet) Peng](https://vnpeng.net/) (PLUS Lab), Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Statistical Machine Learning Lab), and Prof. [Amit Sahai](https://web.cs.ucla.edu/~sahai/).
+I was fortunate to be advised by Prof. [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and to collaborate with incredible mentors like Prof. [Nanyun (Violet) Peng](https://vnpeng.net/) (PLUS Lab), Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Statistical ML Lab), and Prof. [Amit Sahai](https://web.cs.ucla.edu/~sahai/).
 
-My research spanned several key areas, contributing to:
+During my PhD, I got to dive into some fascinating areas:
 
-* **Advanced AI Testing & Robustness:** Critically analyzing existing AI testing metrics (like neuron coverage), exploring fuzzing techniques, investigating adversarial attack methodologies, and developing novel approaches for AI content watermarking to ensure provenance.
-* **Data-Centric AI Innovation:** Designing and implementing novel data augmentation strategies (e.g., sibylvariant transformations, feature-aware methods) to improve model generalization, along with frameworks for provenance tracking in synthetic data.
-* **Human-Centric Quality Assessment:** Leading award-winning research to define and measure nuanced, human-perceived qualities in language model outputs, such as engagement, psychological depth, and linguistic diversity, often validated through extensive human studies.
-* **Applied AI & Societal Considerations:** Developing specialized AI models for practical challenges (e.g., substance use detection in medical texts) and exploring methods for enhancing cultural inclusion and fairness in AI systems.
+* **Making AI More Robust & Secure:** This meant stress-testing models through fuzzing and adversarial attacks, refining AI testing metrics (like looking beyond neuron coverage), and for AI content provenance, critically re-evaluating theoretical limits on watermarking—showing that robust techniques for verifying authorship can be more resilient and quality-preserving than previously assumed.
+* **Innovating with Data:** I worked on new ways to augment data (like sibylvariant transformations and feature-aware methods) to make AI models smarter and more generalizable and robust to adversarial attacks. 
+* **Understanding Human-Perceived AI Quality:** I led some award-winning research to measure subjective qualities like engagement, authenticity, and empathy through the stories that LLMs tell. We also used these ideas to build specialized models for applied tasks, like high-accuracy drug detection in medical texts, and to think about cultural inclusion in vision language models.
 
-Building on this foundation, I am now channeling my expertise into founding **[Kairno](https://kairno.com)**, a new venture dedicated to automating and elevating the research review process using advanced AI. Our goal is to make deep, actionable critique accessible to everyone engaged in scientific work. If you're passionate about this mission and would like to learn more or potentially collaborate, please feel free to reach out!
+All this directly inspired what I’m doing now: founding **[Kairno](https://kairno.com)**! We're using advanced AI to automate and elevate the research review process. Our goal is to _critique the meat_ of your work and provide actionable feedback accessible to everyone doing scientific work. If this mission excites you or you'd like to collaborate, I'd love to connect!
