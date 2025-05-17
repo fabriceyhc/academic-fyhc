@@ -73,7 +73,7 @@ email: ""
 
 I completed my PhD in Computer Science at [UCLA](https://www.cs.ucla.edu/)! The main focus of my work was in tackling a big challenge in AI: how do we *really* know if an AI system is reliable, useful, and trustworthy? I explored new ways to evaluate them, looking closely at everything from data diversity, quality, and provenance to how people truly experience AI-generated work.
 
-I was fortunate to be advised by Prof. [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and to collaborate with incredible mentors like Prof. [Nanyun (Violet) Peng](https://vnpeng.net/) (PLUS Lab), Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Statistical ML Lab), and Prof. [Amit Sahai](https://web.cs.ucla.edu/~sahai/).
+I was fortunate to be advised by Prof. [Miryung Kim](http://web.cs.ucla.edu/~miryung/) and to collaborate with incredible mentors like Prof. [Nanyun (Violet) Peng](https://vnpeng.net/) (PLUS Lab), Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Statistical ML Lab), Prof. [Amit Sahai](https://web.cs.ucla.edu/~sahai/), and Prof. [Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/).
 
 During my PhD, I got to dive into some fascinating areas:
 
