@@ -47,11 +47,11 @@ featured: false
 url_pdf: "paper.pdf"
 url_code: "https://github.com/fabriceyhc/sandcastles"
 # url_dataset:
-# url_poster:
+url_poster: "poster.pdf"
 # url_project:
-# url_slides:
+url_slides: "slides.pdf"
 # url_source:
-# url_video:
+url_video: "video.mp4"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
