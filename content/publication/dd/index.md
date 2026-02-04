@@ -28,11 +28,11 @@ publishDate: 2020-07-30T20:09:19-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Review"
-publication_short: "In Review"
+publication: "Drug and Alcohol Dependence"
+publication_short: "DAD"
 
 abstract: "Identifying substance use behaviors in electronic health records (EHRs) is challenging because critical details are often buried in unstructured notes that use varied terminology and negation, requiring careful contextual interpretation to distinguish relevant use from historical mentions or denials. Using MIMIC-III/IV discharge summaries, we created a large, annotated drug detection dataset to tackle this problem and support future systemic substance use surveillance. We then investigated the performance of multiple large language models (LLMs) for detecting eight substance use categories within this data. Evaluating models in zero-shot, few-shot, and fine-tuning configurations, we found that a fine-tuned model, Llama-DrugDetector-70B, outperformed others. It achieved near-perfect F1-scores (>=0.95) for most individual substances and strong scores for more complex tasks like prescription opioid misuse (F1=0.815) and polysubstance use (F1=0.917). These findings demonstrate that LLMs significantly enhance detection, showing promise for clinical decision support and research, although further work on scalability is warranted."
 
@@ -40,7 +40,7 @@ abstract: "Identifying substance use behaviors in electronic health records (EHR
 summary: ""
 
 tags: ["epidemiology", "drug use", "substance use", "cocaine", "heroin", "methamphetamine", "benzodiazapines", "prescription opioids", "cannabis", "injection drug use"]
-categories: ["In Review"]
+categories: ["DAD"]
 featured: false
 
 # Custom links (optional).

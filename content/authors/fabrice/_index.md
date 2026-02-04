@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Science PhD
+role: Applied Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Los Angeles
-  url: "https://www.cs.ucla.edu/"
+- name: The Wellness Center @ LA General Hospital
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: UCLA CS PhD | SE + ML
@@ -58,7 +58,7 @@ social:
   link: "https://linkedin.com/in/fabrice-harel-canada-89b5a212"
 - icon: "cv"
   icon_pack: "ai"
-  link: "files/cv_2025.05.17.pdf"
+  link: "files/FHC_CV_RESEARCH_FOCUS - 2025.01.29.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -81,4 +81,4 @@ During my PhD, I got to dive into some fascinating areas:
 * **Innovating with Data:** I worked on new ways to augment data (like sibylvariant transformations and feature-aware methods) to make AI models smarter and more generalizable and robust to adversarial attacks. 
 * **Understanding Human-Perceived AI Quality:** I led some award-winning research to measure subjective qualities like engagement, authenticity, and empathy through the stories that LLMs tell. We also used these ideas to build specialized models for applied tasks, like high-accuracy drug detection in medical texts, and to think about cultural inclusion in vision language models.
 
-All this directly inspired what I’m doing now: founding **[Kairno](https://kairno.com)**! We're using advanced AI to automate and elevate the research review process. Our goal is to _critique the meat_ of your work and provide actionable feedback accessible to everyone doing scientific work. If this mission excites you or you'd like to collaborate, I'd love to connect!
+Now, I'm applying these skills as an Applied Research Engineer at **The Wellness Center @ LA General Hospital**, where I engineer and deploy fine-tuned LLMs to extract substance use history from clinical notes and build large-scale data pipelines for epidemiological analysis on 1M+ electronic health records. It's exciting to see AI research translate into tools that can directly impact public health!
