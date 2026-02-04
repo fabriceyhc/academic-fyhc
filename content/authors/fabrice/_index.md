@@ -58,7 +58,7 @@ social:
   link: "https://linkedin.com/in/fabrice-harel-canada-89b5a212"
 - icon: "cv"
   icon_pack: "ai"
-  link: "files/FHC_CV_RESEARCH_FOCUS - 2025.01.29.pdf"
+  link: "files/FHC_CV_RESEARCH_FOCUS - 2026.01.29.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
