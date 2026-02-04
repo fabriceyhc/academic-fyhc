@@ -42,6 +42,6 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "files/FHC_CV_RESEARCH_FOCUS - 2025.01.29.pdf"
+   url = "files/FHC_CV_RESEARCH_FOCUS - 2026.01.29.pdf"
    # pre = "<i class='fa fa-file-alt'></i>"
    weight = 50
